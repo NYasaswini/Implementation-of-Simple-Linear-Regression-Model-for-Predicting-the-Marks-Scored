@@ -19,8 +19,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: N.YASASWINI
-RegisterNumber:2122220040095
+Developed by: N YASASWINI
+RegisterNumber:  2122220040095
 */
 ```
 ```
@@ -74,7 +74,19 @@ print("RMSE = ",rmse)
 
 ## Output:
 
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/c7d928376eb61a4f47b0d21ac96c5b16944b3142/WhatsApp%20Image%202022-10-13%20at%2011.01.57%20AM.jpeg)
 
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/709c7ee4312ada713e0c5145a04914549df922f4/WhatsApp%20Image%202022-10-13%20at%2011.14.23%20AM.jpeg)
+
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/050156e0335af8b746ee7cabdbf5d0181c92f57f/WhatsApp%20Image%202022-10-13%20at%2011.18.35%20AM.jpeg)
+
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/f8b935fd6d9469f2022a94604ece55b8ef9e6929/WhatsApp%20Image%202022-10-13%20at%2011.21.30%20AM.jpeg)
+
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/c2d4e224135372d7c39a6e0ed40d8b6f71bdf551/WhatsApp%20Image%202022-10-13%20at%2011.24.20%20AM.jpeg)
+
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/bebc924ea333ee53dd33a17c5ea474262e67e906/WhatsApp%20Image%202022-10-13%20at%2011.27.23%20AM.jpeg)
+
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/fb229bdead460d6ef57530c248b60746f6ff3bd4/WhatsApp%20Image%202022-10-13%20at%2011.30.16%20AM.jpeg)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
