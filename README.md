@@ -1,28 +1,29 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation of Simple Linear Regression Model for Predicting the Marks Scored
 
-## AIM:
+# AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
-## Equipments Required:
+# EQUIPMENTS REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1.Import the standard Libraries.
-2.Set variables for assigning dataset values.
-3.Import linear regression from sklearn.
-4.Assign the points for representing in the graph
-5.Predict the regression for marks by using the representation of the graph.
-6.Compare the graphs and hence we obtained the linear regression for the given datas.
+# ALGORITHM:
+1. Import the standard Libraries.
+2. Set variables for assigning dataset values.
+3. Import linear regression from sklearn.
+4. Assign the points for representing in the graph
+5. Predict the regression for marks by using the representation of the graph.
+6. Compare the graphs and hence we obtained the linear regression for the given datas.
 
-## Program:
+# PROGRAM:
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: N YASASWINI
-RegisterNumber:  2122220040095
+Developed by:N.YASASWINI
+RegisterNumber: 2122220040095
 */
 ```
+
 ```
 # implement a simple regression model for predicting the marks scored by the students
 
@@ -72,21 +73,13 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 
-## Output:
+# OUTPUT:
+![image](https://user-images.githubusercontent.com/94619247/202135463-323afc14-f687-4ab2-9829-016a78de5ab6.png)
+![image](https://user-images.githubusercontent.com/94619247/202135563-6e515e78-ebc5-4b82-9ae1-60cc7fd7d3ca.png)
+![image](https://user-images.githubusercontent.com/94619247/202135605-9d2d729a-2a1f-43f9-ba23-687c86594537.png)
+![image](https://user-images.githubusercontent.com/94619247/202135668-245643fd-7f77-4607-bbd6-1b2369d30979.png)
+![image](https://user-images.githubusercontent.com/94619247/202135706-0ae58a1c-c7fc-412e-93b6-4b3e77a7caa9.png)
 
-![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/c7d928376eb61a4f47b0d21ac96c5b16944b3142/WhatsApp%20Image%202022-10-13%20at%2011.01.57%20AM.jpeg)
 
-![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/709c7ee4312ada713e0c5145a04914549df922f4/WhatsApp%20Image%202022-10-13%20at%2011.14.23%20AM.jpeg)
-
-![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/050156e0335af8b746ee7cabdbf5d0181c92f57f/WhatsApp%20Image%202022-10-13%20at%2011.18.35%20AM.jpeg)
-
-![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/f8b935fd6d9469f2022a94604ece55b8ef9e6929/WhatsApp%20Image%202022-10-13%20at%2011.21.30%20AM.jpeg)
-
-![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/c2d4e224135372d7c39a6e0ed40d8b6f71bdf551/WhatsApp%20Image%202022-10-13%20at%2011.24.20%20AM.jpeg)
-
-![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/bebc924ea333ee53dd33a17c5ea474262e67e906/WhatsApp%20Image%202022-10-13%20at%2011.27.23%20AM.jpeg)
-
-![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/fb229bdead460d6ef57530c248b60746f6ff3bd4/WhatsApp%20Image%202022-10-13%20at%2011.30.16%20AM.jpeg)
-
-## Result:
+# RESULT:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
